@@ -2170,7 +2170,7 @@ All code, experiments, images, and results were produced by me within this noteb
 
 ---
 
-If you'd like, I can also write a short **abstract**, **GitHub README**, or **peer-review summary**.
-
+**GitHub ** :
+https://github.com/sepidfr/CNN-Cancer-Detection-Kaggle-Mini-Project
 """
 
